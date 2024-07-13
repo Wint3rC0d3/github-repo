@@ -4,3 +4,9 @@ quaker
 cocktail
 badgi
 canyur
+========
+Red
+Blue
+Green
+Yellow
+white
